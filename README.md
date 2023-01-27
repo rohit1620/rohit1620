@@ -42,8 +42,7 @@ career and technical knowledge.
 ## Live Projects
 
 <p>
-[![Exprience Sala](https://img.shields.io/badge/-Porfolio-000?style=flat&logo=🔭&logoColor=white)](https://expirianceshala.vercel.app/)
-[![Portfolio](https://img.shields.io/badge/-Porfolio-000?style=flat&logo=🔭&logoColor=white)](https://rohit1620.github.io/)
+	<a href="https://expirianceshala.vercel.app/" >Experience Sala</a>
 </p>
 
 
