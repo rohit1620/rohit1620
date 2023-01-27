@@ -42,9 +42,8 @@ career and technical knowledge.
 ## Live Projects
 
 <p>
-<a href="https://mellow-rolypoly-03e5bc.netlify.app/index.html](https://expirianceshala.vercel.app/" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Blumercurry&color=000000&Color=FFFFFF&label=" alt="Blumercurry"/></a>
-
-<a href="https://fluffy-croquembouche-14d5f2.netlify.app/" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Freshly&color=000000&Color=FFFFFF&label=" alt="Freshly"/></a>
+[![Exprience Sala](https://img.shields.io/badge/-Porfolio-000?style=flat&logo=🔭&logoColor=white)](https://expirianceshala.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/-Porfolio-000?style=flat&logo=🔭&logoColor=white)](https://rohit1620.github.io/)
 </p>
 
 
