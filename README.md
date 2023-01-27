@@ -18,7 +18,11 @@
 
 
 ## :sassy_man:  About me
- A Full Stack Web Developer based in India. A creative coder who specializes in MERN stack. I make it my mission to design pixel-perfect websites and applications with optimized code that run blazing fast.
+ A dedicated Full Stack Web Developer having specialized in
+MERN stack from Masai School. Having a passion to learn new
+technology. Looking for a job apportunity in a technology-driven
+organization that showcases one's skills and enhances one's
+career and technical knowledge.
 - :thinking: I’m currently open for: `A new `job opportunity`, this is [MY RESUME]().
 - :nerd_face: Always `learning new things`
 
@@ -68,7 +72,7 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/udhai-20/github-readme-stats"><img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=udhai-20&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+<!--     <a href="https://github.com/udhai-20/github-readme-stats"><img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=udhai-20&show_icons=true&count_private=true&theme=algolia" height="192px"/></a> -->
 <br/>
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=udhai-20&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="udhai-20" height="192px"/>
