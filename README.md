@@ -23,16 +23,8 @@ MERN stack from Masai School. Having a passion to learn new
 technology. Looking for a job apportunity in a technology-driven
 organization that showcases one's skills and enhances one's
 career and technical knowledge.
-- :thinking: I’m currently open for: `A new `job opportunity`, this is [MY RESUME]().
+- :thinking: I’m currently open for: `A new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1aLZ1riT8lSmUSvxBUd5SknrEDk7f8uAL/view?usp=share_link).
 - :nerd_face: Always `learning new things`
-
-
-
-
-
-<br>
-<br>
-
 
 ## 👉 Languages and Tools
 
