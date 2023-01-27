@@ -42,7 +42,7 @@ career and technical knowledge.
 ## Live Projects
 
 <p>
-	<a href="https://expirianceshala.vercel.app/"  >Experience Sala</a>
+	<a href="https://expirianceshala.vercel.app/"  >Experience Sala</a> <br>
 	<a href="luxury-douhua-2f73cb.netlify.app/"  >Cricbuzz</a>
 	
 </p>
