@@ -18,11 +18,7 @@
 
 
 ## :sassy_man:  About me
- A dedicated Full Stack Web Developer having specialized in
-MERN stack from Masai School. Having a passion to learn new
-technology. Looking for a job apportunity in a technology-driven
-organization that showcases one's skills and enhances one's
-career and technical knowledge.
+ I am a Full-stack web developer from India. Self-motivated and curious with a keen interest in building user-friendly products. My field of goods is building new web technologies, products, and areas related to deep learning. I love to create beautiful and efficient websites for users. I keenly apply my knowledge for developing products with node.js, modern Javascript Library, MongoDB, express, and frameworks like react.js
 - :thinking: I’m currently open for: `A new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1aLZ1riT8lSmUSvxBUd5SknrEDk7f8uAL/view?usp=share_link).
 - :nerd_face: Always `learning new things`
 
