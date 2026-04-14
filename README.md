@@ -19,7 +19,7 @@
 
 ## :sassy_man:  About me
  I am a Full-stack web developer from India. Self-motivated and curious with a keen interest in building user-friendly products. My field of goods is building new web technologies, products, and areas related to deep learning. I love to create beautiful and efficient websites for users. I keenly apply my knowledge for developing products with node.js, modern Javascript Library, MongoDB, express, and frameworks like react.js
-- :thinking: I’m currently open for: `A new `job opportunity`, this is [MY RESUME]().
+- :thinking: I’m currently open for: `A new `job opportunity`, this is .
 - :nerd_face: Always `learning new things`
 
 ## 👉 Languages and Tools
